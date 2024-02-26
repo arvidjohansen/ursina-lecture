@@ -50,6 +50,22 @@ Kunst og design spiller en avgjørende rolle i utviklingen av spill. Dette inklu
 
 ---
 
+## Spørsmål
+
+
+Diskutér med hverandre i 2 minutter...
+
+
+Hvilket av områdene kunne du tenkt deg å jobbe `mer med?
+
+1. Spillmekanikk
+1. Historiefortelling
+1. Kunst og design
+
+---
+
+
+
 
 ## 3. Spillmotorer og verktøy
 
